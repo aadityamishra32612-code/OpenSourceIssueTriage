@@ -1,0 +1,71 @@
+id,title,severity,urgency,impact,daysLeft,requiredSkill,estimatedHours
+345733,This is taking a little longer than usual,1,3,3,7,General,2
+345732,Pisanie,1,3,3,7,General,2
+345725,Error when trying to Keep changes from Copilot session,1,3,3,7,General,2
+345722,Local harness: reasoning effort of custom-endpoint models is shared globally across windows -- other sessions' GUI still shows the old level while the backend receives the new one,1,3,3,7,General,2
+345719,Hg,1,3,3,7,General,2
+345716,[GB Cert][VS Code]: Agent Debug Log export does not preserve chat content,1,3,3,7,General,2
+345714,TextLength undercounts UTF-16 columns and corrupts inverse and multicursor edits,1,3,3,7,General,2
+345713,"Windows agent sandbox blocks named pipes, breaking dotnet restore and build and other local IPC tools",1,3,3,7,General,2
+345709,"When I'm editing on SSH remote server, the files changed aren't clickable.",1,3,3,7,General,2
+345701,normalizeMimeType lowercases parameter values containing slashes,1,3,3,7,General,2
+345695,Browser remote indicator loses the host name after disconnecting (Dev Tunnels and WSL),3,3,3,7,General,2
+345692,Agents: changing a draft session folder destroys its browser tab (Dev Tunnels),3,3,3,7,General,2
+345690,Improve readability of function signature tooltips by displaying parameters on separate lines,1,3,3,7,General,2
+345689,"""an external application wants to open"" every time ctrl+clicking on an include during liveshare",1,3,3,7,General,2
+345687,GitHub PR links open in VSCode but don't scroll to anchors,1,3,3,7,General,2
+345686,it took 2 minutes 24.5 seconds to create the side chat,1,3,3,7,General,2
+345680,Agents can't create sessions on different harnesses,1,3,3,7,General,2
+345679,"Remote-SSH: standalone agent host launches stale server build from lru.json, causing protocol mismatch; Chat won't load (blank, hangs)",1,3,3,7,General,2
+345678,I added a value into an exclude list and it prompts to also add it into the include list,1,3,3,7,General,2
+345669,CLI-installed canvas plugin loaded twice by local Copilot Agent Host (Written by Copilot),3,3,3,7,General,2
+345664,Permissions picker: locked sandbox switch and disabled Allow all don't expose their organization reason to keyboard/screen reader users,3,3,3,7,General,2
+345662,Markdown editor: Mermaid diagram overlaps with styling of currently selected line,3,3,3,7,General,2
+345660,"When starting a new chat, if I set ""Ask"" mode and ""Opus 5.5"", after I send the initial prompt the new chat window opens in ""Agent"" mode",1,3,3,7,General,2
+345659,"Markdown Preview (ctrl+shift+v): preview panel does not receive focus, cannot scroll with keyboard.",1,3,3,7,General,2
+345657,Notebook hover disappears immediately when moving the mouse into the tooltip (regression in 1.144.0),1,3,3,7,General,2
+345655,Move Priority/Recent/Filter toolbar closer to the inbox list when an item is open,1,3,3,7,General,2
+345654,"Inbox filters (Now, Next, Later) are confusing and show overlapping sessions",1,3,3,7,General,2
+345652,"""Show Chat Response"" should auto scroll to reveal the additional chat response when clicked",1,3,3,7,General,2
+345651,"""Inbox was useful"" button is poorly placed/worded",1,3,3,7,General,2
+345649,"Inbox View has a no-op ""Show Aquarium"" button at the bottom of the list priority session list",1,3,3,7,General,2
+345647,Can we have an option to turn off all AI features?,1,3,3,7,General,2
+345646,MCP local (stdio) servers from ~/.copilot/mcp-config.json fail with spawn ENOENT on Windows client + Remote WSL,1,3,3,7,General,2
+345645,"Explicit Force Remove recovery fails with ""The worktree registration changed"" after a partial removal on Windows",1,3,3,7,General,2
+345643,Quick Pick: Escape from a link focused inside an item tooltip leaves focus on body,3,3,3,7,General,2
+345642,Local harness agent picker: same-named agents from extensions and plugins are indistinguishable,3,3,3,7,General,2
+345641,Markdown editor Mermaid: removing markdown-mermaid.maxHeight is undone after toggling read/edit mode,3,3,3,7,General,2
+345640,"npm script runner depends on how the workspace is opened: folder → npm, multi-root → yarn",1,3,3,7,General,2
+345639,Keyboard navigation of the workspace trust list does not scroll the viewport properly,3,3,3,7,General,2
+345638,"Agents: new-session composer defaults to Cloud on first launch, so Open Folder fails",3,3,3,7,General,2
+345633,sticky top-level session does not indicate that some chats are hidden,1,3,3,7,General,2
+345632,can't undo a chat move,1,3,3,7,General,2
+345631,drag moving a chat will select it in the sessions list without opening it,1,3,3,7,General,2
+345628,Consider removing the results section of worktree cleanup,1,3,3,7,General,2
+345625,Description of cleanup worktree are inconsistent,1,3,3,7,General,2
+345623,Agent Host: unsent drafts create real AHP sessions on remote hosts,1,3,3,7,General,2
+345619,Needs attention unclear actions,1,3,3,7,General,2
+345618,Disk usage unknown or empty,1,3,3,7,General,2
+345617,Disabling a failing timeline provider also disables other timeline providers,1,3,3,7,General,2
+345614,Agent Host sustains high CPU with repeated session catalog reconciliation/database opens,1,3,3,7,General,2
+345612,Bug Report: Incorrect JSON Schema Validation for notebook.cell.chat.start Keyboard Shortcuts,1,3,3,7,General,2
+345611,Agent Host: let archive_chat mark the calling session Done after the turn ends,1,3,3,7,General,2
+345610,"Agent host: ""Allow Fetching <host>"" drops the port, so approving a URL with a port does not cover it",3,3,3,7,General,2
+345607,Agent Host: model-created PRs depend on add_artifact_or_reference in restricted PR association,1,3,3,7,General,2
+345606,"Plugin on remote machine is shown as ""Local""",3,3,3,7,General,2
+345603,"chat.agent.sandbox.enabled: ""off""` is saved and correctly propagated to `agent-host-config.json`, but the agent's spawned terminal process remains sandboxed (AppContainer)",1,3,3,7,General,2
+345599,"Copilot > ""Fork this conversation"" from last message too",1,3,3,7,General,2
+345596,Ability to control which models Copilot Fusion uses,1,3,3,7,General,2
+345595,MCP disabled transitively through plugin hard to re-enable,1,3,3,7,General,2
+345594,"False positive: ""agent tool must be included in tools"" warning when agent/runSubagent is listed instead of the toolset alias",1,3,3,7,General,2
+345593,Agents window: Pinned section collapse state is not preserved after reload,3,3,3,7,General,2
+345590,Tab flickering when clicking on the tab,1,3,3,7,General,2
+345589,Copilot cannot recover when a failing PermissionRequest hook blocks all tools,1,3,3,7,General,2
+345586,Unable to exclude !bang.txt in files.exclude,1,3,3,7,General,2
+345582,Sandbox: readonly pathes have precedence over read-write pathes,1,3,3,7,General,2
+345580,Don't allow inputting characters other than number,1,3,3,7,General,2
+345578,"Sessions with child chats revert to unread after ""Mark as Read"" in the editor window",1,3,3,7,General,2
+345577,Host Settings editor fails to open when restored after a restart,3,3,3,7,General,2
+345575,Cannot undo changes,1,3,3,7,General,2
+345574,askQuestions long question descriptions cause awkward nested scrolling and layout,1,3,3,7,General,2
+345572,Saved Cron Automation sequence of numbers could be postfixed by letter representing unit,1,3,3,7,General,2
